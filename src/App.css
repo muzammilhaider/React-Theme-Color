@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.myClass{
+  background-color: red;
+  border: none;
+  padding: 10px;
+  height: 98vh;
+}
+.myClass2{
+  background-color: gray;
+  border: none;
+  padding: 10px;
+  height: 98vh;
+}
